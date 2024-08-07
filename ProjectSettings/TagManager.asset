@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Player
+  - Water
+  - UI
+  - Bullets
+  - IFrames
+  - Coins
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 1370892317
+    locked: 0
+  - name: Foreground
+    uniqueID: 3959604339
+    locked: 0
+  - name: Obstacles
+    uniqueID: 2835434083
+    locked: 0
+  - name: Coins
+    uniqueID: 3170240665
+    locked: 0
+  - name: Bullets
+    uniqueID: 4050016093
+    locked: 0
+  - name: Player
+    uniqueID: 115566139
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
